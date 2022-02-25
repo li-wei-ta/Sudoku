@@ -1,3 +1,3 @@
 # Sudoku
 
-Implemented a sudoku solver solution in C++ using backtracking algorithm
+Implemented a sudoku solver solution in C++ using backtracking algorithm and pointers.
